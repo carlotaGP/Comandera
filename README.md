@@ -14,7 +14,7 @@ Aplicación móvil de toma de pedidos para restaurantes, desarrollada en Android
 1. **Clona el repositorio:**
 
    ```bash
-   git clone [https://github.com/tuusuario/nombre-del-repo.git](https://github.com/carlotaGP/Comandera.git)
+   git clone https://github.com/carlotaGP/Comandera.git
    
 ### 2. Abrir el proyecto en Android Studio
 
